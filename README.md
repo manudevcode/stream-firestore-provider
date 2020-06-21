@@ -1,6 +1,6 @@
 # Leer datos de firestore en tiempo real con Provider para Flutter
 
-![Firebase Auth y Provider](https://github.com/manudevcode/flutter_firebase_auth/blob/master/image/imagen.png?raw=true)
+![Firestore y Provider](https://github.com/manudevcode/stream-firestore-provider/blob/master/image/imagen.png?raw=true)
 
 Conoce la mejor y más sencilla forma de leer datos en tiempo real de una colleción en firestore con Provider.
 
